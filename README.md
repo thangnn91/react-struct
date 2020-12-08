@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-# React Router V5 multiple layouts
+# Code mẫu react multiple layouts (bao gồm layout người dùng + admin) 
 
 
 If you want to test the project you can go to this  [![Edit upbeat-microservice-bgliv](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/upbeat-microservice-bgliv?fontsize=14&hidenavigation=1&theme=dark)  or clone the repository
